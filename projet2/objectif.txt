@@ -1,0 +1,38 @@
+📦 Mini-projet 2 : Analyse des commandes clients
+🎯 Objectif :
+Créer un outil JS qui analyse un ensemble de commandes pour :
+
+calculer des indicateurs clés
+
+regrouper les ventes par client, produit, mois, etc.
+
+identifier des comportements (clients fidèles, panier moyen…)
+
+
+📊 Ce que tu dois coder
+1. Indicateurs globaux
+Nombre total de commandes
+
+Chiffre d’affaires total
+
+Panier moyen
+
+2. Regroupements
+CA par client
+
+CA par produit
+
+Nombre de commandes par mois (tu devras parser la date)
+
+3. Analyse
+Identifier les clients réguliers (plus d’1 commande)
+
+Trouver le produit le plus vendu (par nombre de commandes)
+
+✨ Bonus si tu veux aller plus loin
+Classement des clients (Top 3 CA)
+
+Affichage HTML / table dynamique avec console.table
+
+Export JSON ou CSV
+

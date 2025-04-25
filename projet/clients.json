@@ -1,0 +1,32 @@
+[
+    {
+        "nom": "Alice",
+        "age": 34,
+        "ville": "Paris",
+        "chiffreAffaire": 12000
+    },
+    {
+        "nom": "Bob",
+        "age": 45,
+        "ville": "Lyon",
+        "chiffreAffaire": 8000
+    },
+    {
+        "nom": "Claire",
+        "age": 29,
+        "ville": "Paris",
+        "chiffreAffaire": 9500
+    },
+    {
+        "nom": "Dan",
+        "age": 40,
+        "ville": "Marseille",
+        "chiffreAffaire": 15000
+    },
+    {
+        "nom": "Eva",
+        "age": 31,
+        "ville": "Lyon",
+        "chiffreAffaire": 11000
+    }
+]
